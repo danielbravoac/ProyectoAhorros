@@ -15,7 +15,7 @@ El más utilizado actualmente es el diseño en tres niveles (o en tres capas), l
 
 # 📦 Sobre la Base de Datos
 La base de datos no relacional representada, se ha realizado con las especificaciones hechas por el cliente. Basando la base de datos en la documentación brindada a continuación:
-[Presentación de Documentación](https://docs.google.com/document/d/19RG5ffvn-2cmFvbtJA3KHfLeMbAIbSdRF2JjjVY1vV4/edit?usp=sharing) [Diagrama de Proceso] (https://app.lucidchart.com/invitations/accept/4c508bc4-e8e6-4913-b77d-8c318403f692)
+[Presentación de Documentación](https://docs.google.com/document/d/19RG5ffvn-2cmFvbtJA3KHfLeMbAIbSdRF2JjjVY1vV4/edit?usp=sharing) [Diagrama de Proceso](https://app.lucidchart.com/invitations/accept/4c508bc4-e8e6-4913-b77d-8c318403f692)
 
 # ❓ Como Descargarlo y Restaurarlo
 Para la restauración de la **base de datos** utilice [SQL Server 2019](https://www.microsoft.com/es-es/sql-server/sql-server-2019) con una instancia local o con contraseña; realice consultando la [documentación](https://docs.microsoft.com/es-es/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms?view=sql-server-ver15) respectiva y para la **edición de código** use [Visual Studio 2019](https://visualstudio.microsoft.com/es/vs/), alterne la cadena de conexión conveniente en la capa de Acceso a Datos en clsConexion.cs
