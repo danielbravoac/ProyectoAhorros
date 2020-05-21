@@ -1,0 +1,8 @@
+E:\Instituto\ProyectoAhorros\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Instituto\ProyectoAhorros\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Instituto\ProyectoAhorros\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\Instituto\ProyectoAhorros\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\Instituto\ProyectoAhorros\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+E:\Instituto\ProyectoAhorros\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+E:\Instituto\ProyectoAhorros\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Instituto\ProyectoAhorros\CapaNegocio\obj\Debug\CapaNegocio.pdb

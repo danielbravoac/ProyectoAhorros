@@ -1,0 +1,6 @@
+E:\Instituto\ProyectoAhorros\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+E:\Instituto\ProyectoAhorros\Reportes\obj\Debug\Reportes.frmAperturaCuenta.resources
+E:\Instituto\ProyectoAhorros\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+E:\Instituto\ProyectoAhorros\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+E:\Instituto\ProyectoAhorros\Reportes\obj\Debug\RdlCompile.cache
+E:\Instituto\ProyectoAhorros\Reportes\obj\Debug\RdlCompile.compiled

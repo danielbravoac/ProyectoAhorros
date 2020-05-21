@@ -1,0 +1,5 @@
+E:\Instituto\ProyectoAhorros\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+E:\Instituto\ProyectoAhorros\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Instituto\ProyectoAhorros\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Instituto\ProyectoAhorros\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Instituto\ProyectoAhorros\CapaDatos\obj\Debug\CapaDatos.pdb
